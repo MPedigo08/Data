@@ -11,7 +11,7 @@ jedi.push("Obi-Wan Kenobi");
 jedi.unshift("Yoda");
 
 // 1e. Using index on the jedi array display "Luke"
-console.log(jedi[0]);  // Output: "Luke"
+console.log(jedi[1]);  // Output: "Luke"
 
 // 1f. Using another array method remove "Obi-Wan Kenobi" from the end of the jedi array
 jedi.pop();
