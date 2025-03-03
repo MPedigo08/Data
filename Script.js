@@ -51,7 +51,7 @@ console.log(droids.protocol);  // Output: "C-3PO"
 droids.assassin = "IG-11";
 
 // 4. Using indexes display the "V" from "Darth Vader" from the starWarsVillains array
-console.log(starWarsVillains[0][1]);  // Output: "V"
+console.log(starWarsVillains[0][6]);  // Output: "V"
 
 // 5. Using only negative numbers display "Darth Sidious" from the sithLords array using Slice
 console.log(sithLords.slice(-2, -1)[0]);  // Output: "Darth Sidious"
